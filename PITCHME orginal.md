@@ -1,24 +1,18 @@
 ---?image=assets/image/jeremy-bishop.jpg
 
-# Static Analysis
+# Space
 
-@fa[arrows gp-tip](Press F to go Fullscreen)
+### A GitPitch Presentation Template
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-# Definition
+## Tips!
 
-```
-Static program analysis is the analysis of computer software 
-that is performed without actually executing programs 
-(analysis performed on executing programs is known as dynamic analysis).
-In most cases the analysis is performed on some version of the source code,
-and in the other cases, some form of the object code.
-```
-@[1](Analiza statyczna jest formą analizy oprogramowania,)
-@[2](która wykonywana jest bez wykonywania programu.)
-@[3](Analiza która uruchami program nazywana jest dynamiczną, np Valgrind)
-@[4-5](W większości przypadków analiza wykonywana jest na kodzie źródłowym lub plikach obiektowych)
+<br>
+
+@fa[arrows gp-tip](Press F to go Fullscreen)
+
+@fa[microphone gp-tip](Press S for Speaker Notes)
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
