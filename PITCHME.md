@@ -24,10 +24,45 @@ that is performed without actually executing programs
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-## CppCheck
+## CppCheck GUI
+
 ![CppCheck](assets/image/cppcheck.png)
 
 ---?image=assets/image/john-reign-abarintos.jpg
+
+## CppCheck GUI
+
+![CppCheck](assets/image/checkedCode.png)
+
+---?image=assets/image/john-reign-abarintos.jpg
+
+## SonarCube
+
+- Scanner / Server architecture
+- plugin based
+- Official C++ plugin is comercial but other languages are free
+- there is a community c++ plugin
+
+---?image=assets/image/john-reign-abarintos.jpg
+![CppCheck](assets/image/sonarqube1.png)
+
+---?image=assets/image/kyle-gregory-devaras.jpg
+![CppCheck](assets/image/sonarqube2.png)
+
+---?image=assets/image/kyle-gregory-devaras.jpg
+
+![CppCheck](assets/image/sonarqube3.png)
+
+---?image=assets/image/kyle-gregory-devaras.jpg
+
+![CppCheck](assets/image/sonarqube4.png)
+
+---?image=assets/image/kyle-gregory-devaras.jpg
+
+![CppCheck](assets/image/sonarqube5.png)
+
+---?image=assets/image/kyle-gregory-devaras.jpg
+
 
 @title[JavaScript Block]
 
