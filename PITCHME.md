@@ -40,7 +40,7 @@ that is performed without actually executing programs
 
 - Scanner / Server architecture
 - plugin based
-- Official C++ plugin is comercial but other languages are free
+- Official C++ plugin is comercial but other languages are for free
 - there is a community c++ plugin
 
 ---?image=assets/image/john-reign-abarintos.jpg
