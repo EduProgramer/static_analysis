@@ -1,6 +1,6 @@
 ---?image=assets/image/jeremy-bishop.jpg
 
-# Static Analysis
+# Static Analysis Basics
 
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
@@ -17,8 +17,8 @@ that is performed without actually executing programs
 
 ## Tools
 
-- Your compiler
-- CppCheck an CppCheck-gui (GPL)
+- probably your compiler
+- CppCheck and CppCheck-gui (GPL)
 - SonarCube (LGPL)
 - Coverity (commercial)
 
@@ -49,7 +49,7 @@ int main(int argc, char const* argv[])
     return 0;
 }
 ```
----?image=assets/image/john-reign-abarintos.jpg
+---?image=assets/image/kyle-gregory-devaras.jpg
 ## CppCheck Command
 - cppcheck --enable=all --inconclusive  --xml --xml-version=2 -v  main.cpp 2> result.xml
 - cppcheck-htmlreport --source-encoding="iso8859-1" --title="my project name" --source-dir=. --report-dir=. --file=result.xml
@@ -62,7 +62,7 @@ int main(int argc, char const* argv[])
 - Scanner / Server architecture
 - plugin based
 - Official C++ plugin is comercial but other languages are for free
-- there is a community C++ plugin
+- but there is a community C++ plugin
 
 ---?image=assets/image/john-reign-abarintos.jpg
 ![CppCheck](assets/image/sonarqube1.png)
@@ -81,3 +81,11 @@ int main(int argc, char const* argv[])
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
 ![CppCheck](assets/image/sonarqube5.png)
+
+---?image=assets/image/kyle-gregory-devaras.jpg
+## SonarCube
+
+Live live live
+
+---?image=assets/image/kyle-gregory-devaras.jpg
+# Thanks
