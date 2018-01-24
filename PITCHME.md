@@ -41,7 +41,7 @@ that is performed without actually executing programs
 - Scanner / Server architecture
 - plugin based
 - Official C++ plugin is comercial but other languages are for free
-- there is a community c++ plugin
+- there is a community C++ plugin
 
 ---?image=assets/image/john-reign-abarintos.jpg
 ![CppCheck](assets/image/sonarqube1.png)
@@ -60,5 +60,3 @@ that is performed without actually executing programs
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
 ![CppCheck](assets/image/sonarqube5.png)
-
----?image=assets/image/kyle-gregory-devaras.jpg
