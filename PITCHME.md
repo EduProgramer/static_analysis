@@ -17,6 +17,7 @@ that is performed without actually executing programs
 
 ## Tools
 
+- Your compiler
 - CppCheck an CppCheck-gui (GPL)
 - SonarCube (LGPL)
 - Coverity (commercial)
@@ -29,7 +30,7 @@ that is performed without actually executing programs
 
 ---?image=assets/image/john-reign-abarintos.jpg
 
-## CppCheck GUI
+## Broken Code
 
 ```c++
 int main(int argc, char const* argv[])
@@ -48,6 +49,11 @@ int main(int argc, char const* argv[])
     return 0;
 }
 ```
+---?image=assets/image/john-reign-abarintos.jpg
+## CppCheck Command
+- cppcheck --enable=all --inconclusive  --xml --xml-version=2 -v  main.cpp 2> result.xml
+- cppcheck-htmlreport --source-encoding="iso8859-1" --title="my project name" --source-dir=. --report-dir=. --file=result.xml
+- rm result.xml
 
 ---?image=assets/image/john-reign-abarintos.jpg
 
