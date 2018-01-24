@@ -8,27 +8,24 @@
 
 # Definition
 
-- Static program analysis is the analysis of computer software 
-that is performed without actually executing programs 
+- Static program analysis is the analysis of computer software
+that is performed without actually executing programs
 - Analysis performed on executing programs is known as dynamic analysis |
 - In most cases the analysis is performed on some version of the source code |
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-## Template Features
+## Tools
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+- CppCheck an CppCheck-gui
+- SonarCube
+- Coverity
 
----?code=src/go/server.go&lang=golang&title=Golang File
 
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
+---?image=assets/image/kyle-gregory-devaras.jpg
+
+## CppCheck
+![CppCheck](assets/image/cppcheck.png)
 
 ---?image=assets/image/john-reign-abarintos.jpg
 
@@ -74,7 +71,7 @@ http.createServer(function (request, response) {
 ## Template Help
 
 - [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
+  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides)
 - [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
 - [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
@@ -106,4 +103,3 @@ http.createServer(function (request, response) {
 
 ### Get your presentation started!
 ### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/space)
-
