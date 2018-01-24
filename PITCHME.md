@@ -21,7 +21,6 @@ that is performed without actually executing programs
 - SonarCube (LGPL)
 - Coverity (commercial)
 
-
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
 ## CppCheck GUI
@@ -32,7 +31,23 @@ that is performed without actually executing programs
 
 ## CppCheck GUI
 
-![CppCheck](assets/image/checkedCode.png)
+```c++
+int main(int argc, char const* argv[])
+{
+    int x = 10;
+
+    if(x = 145)
+    {
+        x = x;
+    }
+    x = x;
+
+    short k[13];
+    k[13] = 123;
+
+    return 0;
+}
+```
 
 ---?image=assets/image/john-reign-abarintos.jpg
 
