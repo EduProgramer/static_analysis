@@ -24,6 +24,12 @@ that is performed without actually executing programs
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
+## GNU Lesser General Public License
+
+![LGPL](assets/image/gnu.png)
+
+---?image=assets/image/kyle-gregory-devaras.jpg
+
 ## CppCheck GUI
 
 ![CppCheck](assets/image/cppcheck.png)
